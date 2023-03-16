@@ -16,13 +16,7 @@
 
 <hr>
 <h2 align="center">Deploy 👨🏽‍💻</h2>
-<a href="#" target="_blank">Link para testar</a>
-
-
-<hr>
-<h2 align="center">Print do projeto </h2>
-<br>
-<img width="50%" align="center" src="#>
+<a href="https://lilian-rangel-text-effect.netlify.app/" target="_blank">Link para testar</a>
 
 
 <hr>
