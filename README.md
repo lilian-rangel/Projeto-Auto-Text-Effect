@@ -1,6 +1,6 @@
 
 <h1 align="center">Projeto: Auto text effect</h1>
-<p>Status do projeto: Em construção 🚧</p>
+<p>Status do projeto: Concluído ✅</p>
 <hr>
 <h2 align="center">Aprendizados nesse projeto 🎯</h2>
 <p>O projeto faz parte do desafio 50 projetos em 50 dias </p>
